@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "4",
-    "ref": "lxe/ref#node-12"
+    "ref": "git+https://github.com/aabuhijleh/ref.git#54c5638e2e7aa9f45e92e6c17c96fcd7de2068dd"
   },
   "devDependencies": {
     "bindings": "1",
